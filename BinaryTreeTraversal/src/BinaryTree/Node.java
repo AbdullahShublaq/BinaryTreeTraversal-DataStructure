@@ -7,7 +7,7 @@ package BinaryTree;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  * @param <E>
  */
 public class Node<E> {
