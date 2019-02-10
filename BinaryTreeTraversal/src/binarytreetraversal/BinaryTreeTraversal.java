@@ -12,7 +12,7 @@ import java.util.Stack;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  * @param <E>
  */
 public class BinaryTreeTraversal<E> {
