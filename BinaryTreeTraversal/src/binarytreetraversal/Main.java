@@ -9,8 +9,9 @@ import BinaryTree.Node;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
+
 public class Main {
 
     /*Input1:
