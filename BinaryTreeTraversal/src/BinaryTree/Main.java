@@ -7,7 +7,7 @@ package BinaryTree;
 
 /**
  *
- * @author jit
+ * @author Abdullah Shublaq
  */
 public class Main {
 
